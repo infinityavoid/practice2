@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "practice2": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
